@@ -344,9 +344,7 @@ a {
 .steps-cards .feature:nth-child(2) {
   margin-right: -10px;
 }
-.feature-icon img {
-  border-radius: 600px;
-}
+
 .steps-cards .feature:nth-child(2) .feature-icon {
   margin-top: -3px;
 }
